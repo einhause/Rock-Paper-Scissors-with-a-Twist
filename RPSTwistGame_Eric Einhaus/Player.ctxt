@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=Player()
+comment10.params=player
+comment10.target=void\ pickCard(Player)
+comment2.params=
+comment2.target=int\ getLives()
+comment3.params=num
+comment3.target=void\ setLives(int)
+comment4.params=
+comment4.target=int\ getUserPickedCard()
+comment5.params=num
+comment5.target=void\ setUserPickedCard(int)
+comment6.params=
+comment6.target=void\ fillDeck()
+comment7.params=player
+comment7.target=void\ fillHand(Player)
+comment8.params=player
+comment8.target=void\ fillInitialHand(Player)
+comment9.params=
+comment9.target=void\ printHand()
+numComments=11

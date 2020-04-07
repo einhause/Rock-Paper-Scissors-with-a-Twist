@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=void\ mainMenu()
+comment2.params=
+comment2.target=void\ rules()
+comment3.params=one\ two
+comment3.target=void\ printLives(Player,\ Player)
+comment4.params=one\ two
+comment4.target=void\ setFalse(Player,\ Player)
+comment5.params=p1\ com
+comment5.target=void\ checkWin(Player,\ Player)
+comment6.params=player
+comment6.target=void\ checkValidPlay(Player)
+comment7.params=winner\ loser
+comment7.target=void\ noValidPlayProcedure(Player,\ Player)
+comment8.params=winner\ loser
+comment8.target=void\ noValidPlayProcedureCom(Player,\ Player)
+comment9.params=
+comment9.target=void\ run()
+numComments=10

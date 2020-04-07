@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Playable
+comment1.params=one\ two
+comment1.target=void\ playCard(Player,\ Player)
+numComments=2

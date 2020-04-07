@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SpecThrowThree
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=winner\ loser
+comment2.target=void\ playCard(Player,\ Player)
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Attack
+comment1.params=winner\ loser
+comment1.target=void\ playCard(Player,\ Player)
+numComments=2
